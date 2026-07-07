@@ -13,7 +13,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const description = document.getElementById("description");
   const errorMessage = document.getElementById("error-message");
   // declaring the API_KEY
-  const API_KEY = "269e5ee25262d582e49e6ec26a02d014";
+
+  const API_KEY = ""; // put your API_KEY here. This is just to make sure the program runs but not a good programming practice.
+
   // listening for the click from the button
   weatherBtn.addEventListener("click", async () => {
     //fetching the city data from the geolocation API
