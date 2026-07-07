@@ -7,5 +7,5 @@ The app returns weather certainly but it is not very accurate and only returns t
 
 ## How to use 
 Firstly i removed my API_KEY from the code files because it is bad practice to just leave that in there so to use the app one needs to open an account with OpenWeatherMap's website. There should be a free tier that can be used to acquire an API key. The API should work once that is done but if it doesn't then it might be necessary to refer to the documentation of the API. 
-###Side note.
+##Side note.
 Just to be clear i am not sure just how accurate the app is but it retrieves data from OpenWeatherMap so it is as accurate as OpenWeatherMap says it is.
